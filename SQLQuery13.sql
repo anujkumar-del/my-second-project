@@ -1,0 +1,1 @@
+﻿alter table tbl_leave add attachfile varchar(200)
